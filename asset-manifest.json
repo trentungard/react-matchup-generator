@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-matchup-generator/static/js/main.fba58488.js",
+    "index.html": "/react-matchup-generator/index.html",
+    "main.fba58488.js.map": "/react-matchup-generator/static/js/main.fba58488.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fba58488.js"
+  ]
+}
